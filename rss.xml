@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Joseph Cheng Photography]]></title>
         <description><![CDATA[Joseph Cheng Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/joseph-cheng-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 04 May 2016 05:07:07 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 04 May 2016 05:21:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/joseph-cheng-photography/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[羽衣仙女]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/1bce99ba-06d7-4008-8438-ddacf782741c.jpg">]]></description>
+            <link>https://thegrid.ai/joseph-cheng-photography/fe0967e2-6ff0-42fb-be78-0bc992beb605/index.html</link>
+            <guid isPermaLink="false">fe0967e2-6ff0-42fb-be78-0bc992beb605</guid>
+            <pubDate>Wed, 04 May 2016 05:21:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Silence cat]]></title>
             <description><![CDATA[<article><h1>Silence cat</h1><p>等待的貓，在草叢間亂晃。</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/153f7af5-0a9e-4223-8c53-db5e4d4c346f.jpg"></article>]]></description>
-            <link>undefinedsilence-cat/index.html</link>
+            <link>https://thegrid.ai/joseph-cheng-photography/silence-cat/index.html</link>
             <guid isPermaLink="false">63b26a3c-bb5d-4973-bb03-74db945b7a1a</guid>
             <pubDate>Wed, 04 May 2016 05:07:06 GMT</pubDate>
         </item>
